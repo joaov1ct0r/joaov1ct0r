@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 # Olá eu sou o João Victor.
 
-Eu sou um desenvolvedor Full Stack Júnior, possuo conhecimentos em Front-end e Back-end na linguagem de programação JavaScript.
+Eu sou um desenvolvedor Back-end Júnior, possuo conhecimentos em Front-end e Back-end na linguagem de programação JavaScript.
 
 ### Atualmente estou em busca da primeira experiência profissional no mercado da tecnologia.
 
