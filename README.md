@@ -70,7 +70,7 @@ Aqui estão algumas das tecnologias com que ja realizei projetos pessoais.
     <a href="https://twitter.com/jvksp1" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </div>
 
-<br />
+<br/>
 
 <div align='center'>
     <a href='https://www.github.com/joaov1ct0r' />
