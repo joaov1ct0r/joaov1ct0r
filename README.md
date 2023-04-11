@@ -3,9 +3,9 @@ joaov1ct0r/joaov1ct0r is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-# Olá eu sou o João Victor.
+# Olá eu sou o João Victor
 
-Sou um desenvolvedor Back-End Júnior com conhecimento na linguagem de programação JavaScript.
+Sou um desenvolvedor Full Stack com conhecimento nas linguagens de programação Java e JavaScript.
 
 ### Atualmente estou em busca da primeira experiência profissional no mercado da tecnologia.
 
