@@ -15,7 +15,7 @@ Aqui estão os sistemas operacionais que ja utilizei.
 
 <div style="display: inline_block"><br />
    <img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-    <img align="center" alt="Linux" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> 
+   <img align="center" alt="Linux" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> 
 </div>
 
 <br />
@@ -24,8 +24,7 @@ Aqui estão os sistemas operacionais que ja utilizei.
 
 Aqui estão algumas das tecnologias com que ja realizei projetos pessoais.
 
-<div style="display: inline_block"><br />
-   
+<div style="display: inline_block"><br />   
    <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
    <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
    <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
