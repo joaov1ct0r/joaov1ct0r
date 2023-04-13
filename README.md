@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 Sou um desenvolvedor Full Stack com conhecimento nas linguagens de programação Java e JavaScript.
 
-### Atualmente estou em busca da primeira experiência profissional no mercado da tecnologia.
+### Atualmente estou em busca da primeira experiência profissional no mercado da tecnologia
 
 ## OSs
 
