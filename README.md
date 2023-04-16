@@ -11,7 +11,7 @@ Sou um desenvolvedor Full Stack com conhecimento nas linguagens de programação
 
 ## OSs
 
-Aqui estão os sistemas operacionais que ja utilizei.
+Aqui estão os sistemas operacionais que ja utilizei
 
 <div style="display: inline_block"><br />
    <img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
