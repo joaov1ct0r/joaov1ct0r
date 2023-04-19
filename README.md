@@ -51,7 +51,7 @@ Aqui estão algumas das tecnologias com que ja realizei projetos pessoais
   
   ## Banco de dados
   
-  Aqui estão os bancos de dados com quais ja realizei projetos.
+  Aqui estão os bancos de dados com quais ja realizei projetos
   
   <div style="display: inline_block"><br />
      <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
