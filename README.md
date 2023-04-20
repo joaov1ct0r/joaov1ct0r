@@ -64,7 +64,7 @@ Aqui estão algumas das tecnologias com que ja realizei projetos pessoais
    
    ## Contato
    
-   Entre em contato comigo.
+   Entre em contato comigo
    
  <div>
     <a href="https://www.linkedin.com/in/joaov1ct0r" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
