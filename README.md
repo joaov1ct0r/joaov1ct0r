@@ -75,7 +75,9 @@ Aqui estão algumas das tecnologias com que ja realizei projetos pessoais
 
 <div align='center'>
     <a href='https://www.github.com/joaov1ct0r' />
-       <img height="180em" src="https://pixel-profile.vercel.app/api/github-stats?username=joaov1ct0r&theme=monica" />
+      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+
+
 
     <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaov1ct0r&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" /> -->
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaov1ct0r&layout=compact&langs_count=7&theme=dracula" /> -->
