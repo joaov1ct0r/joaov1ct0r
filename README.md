@@ -76,14 +76,9 @@ Aqui estão algumas das tecnologias com que ja realizei projetos pessoais
 <div align='center'>
     <a href='https://www.github.com/joaov1ct0r' />
     <picture>
-        <source
-          srcset="https://github-readme-stats.vercel.app/api?username=joaov1ct0r&include_all_commits=true&show=prs_merged,prs_merged_percentage&show_icons=true&theme=dark"
-          media="(prefers-color-scheme: dark)"
-        />
-        <source
-          srcset="https://github-readme-stats.vercel.app/api?username=joaov1ct0r&include_all_commits=true&show=prs_merged,prs_merged_percentage&show_icons=true"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
         <img src="https://github-readme-stats.vercel.app/api?username=joaov1ct0r&include_all_commits=true&show=prs_merged,prs_merged_percentage&show_icons=true" />
     </picture>
+       <picture>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaov1ct0r" />
+       </picture>
 </div>
